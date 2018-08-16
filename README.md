@@ -1,0 +1,2 @@
+# stylelint
+Barebones Stylelint project
