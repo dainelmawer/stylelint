@@ -1,0 +1,24 @@
+{
+  "name": "stylelint-labs",
+  "version": "1.0.0",
+  "description": "Stylelint experiments for CSS processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "stylelint",
+    "fix": "stylelint --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dainemawer/stylelint.git"
+  },
+  "author": "Daine Mawer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dainemawer/stylelint/issues"
+  },
+  "homepage": "https://github.com/dainemawer/stylelint#readme",
+  "devDependencies": {
+    "stylelint": "^9.4.0"
+  }
+}
